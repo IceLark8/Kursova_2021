@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocFinder", "DocFinder\DocFinder.csproj", "{9909FD6F-A11F-463C-B395-C1367DCAF700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9909FD6F-A11F-463C-B395-C1367DCAF700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9909FD6F-A11F-463C-B395-C1367DCAF700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9909FD6F-A11F-463C-B395-C1367DCAF700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9909FD6F-A11F-463C-B395-C1367DCAF700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FEB837F-5250-4CDA-BE9B-9D6E8F65E1B4}
+	EndGlobalSection
+EndGlobal
